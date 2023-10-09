@@ -1,1 +1,2 @@
-"# first-lecture-js" 
+# first lecture in java script
+# lectur 1
